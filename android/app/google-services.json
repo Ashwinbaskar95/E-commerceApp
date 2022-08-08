@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363907423152",
+    "project_id": "ashwin-kart",
+    "storage_bucket": "ashwin-kart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363907423152:android:ee155bec1b2727d3699475",
+        "android_client_info": {
+          "package_name": "ashwinbaskar95.com.ashwinkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363907423152-sbnve75gejuecnljs56bm7e4810e6huf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB36hGwtZvokN33nnkFcYYtXxN9yj7iy-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363907423152-sbnve75gejuecnljs56bm7e4810e6huf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

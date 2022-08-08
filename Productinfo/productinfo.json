@@ -1,0 +1,154 @@
+[
+  {
+    "id": 0,
+    "category": "phone",
+    "name": "Iphone",
+    "model": "13",
+    "price": "$899",
+    "manufacture date": "21-May-2022",
+    "manufacture address": "Apple,California",
+    "imageUrl": "https://www.apple.com/v/iphone-13/h/images/key-features/compare/compare_iphone_13__b8xtgepe079e_large.jpg"
+  },
+  {
+    "id": 1,
+    "category": "phone",
+    "name": "OnePlus",
+    "model": "10T",
+    "price": "$699",
+    "manufacture date": "20-Jun-2022",
+    "manufacture address": "One plus,China",
+    "imageUrl": "https://img.giznext.com/assets/model/6/12260/oneplus-mobiles-oneplus-10t-1626949099.jpg"
+  },
+  {
+    "id": 2,
+    "category": "phone",
+    "name": "Redmi",
+    "model": "10T",
+    "price": "$499",
+    "manufacture date": "01-Dec-2021",
+    "manufacture address": "Xioami,China",
+    "imageUrl": "https://m.media-amazon.com/images/I/61tCBXqRJvL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 3,
+    "category": "laptop",
+    "name": "Lenovo",
+    "model": "V15",
+    "price": "$899",
+    "manufacture date": "20-May-2021",
+    "manufacture address": "Lenovo,Japan",
+    "imageUrl": "https://www.lenovo.com/medias/ww-lenovo-laptop-v15-amd-hero.png?context=bWFzdGVyfHJvb3R8MjczMTgzfGltYWdlL3BuZ3xoMTEvaDQ4LzE0MzI1NjM0MzAxOTgyLnBuZ3xlZTFjYmQzODIzNjZiODA1ZDM3N2Y1ZTFjYjI2MWNkODkyYmUyNWUwOTlkNzQ5YzhkMGU0ODdkOTEyNTFiNDlh"
+  },
+  {
+    "id": 4,
+    "category": "laptop",
+    "name": "HP",
+    "model": "Thinkpad 15",
+    "price": "$699",
+    "manufacture date": "02-Apr-2022",
+    "manufacture address": "HP,India",
+    "imageUrl": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/5/0/50M59PA-1_T1656563329.png"
+  },
+  {
+    "id": 5,
+    "category": "laptop",
+    "name": "Dell",
+    "model": "Inspiron 12",
+    "price": "$999",
+    "manufacture date": "21-May-2022",
+    "manufacture address": "Dell,California",
+    "imageUrl": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/5/0/50M59PA-1_T1656563329.png"
+  },
+  {
+    "id": 6,
+    "category": "light",
+    "name": "Wipro",
+    "model": "Smart bulb",
+    "price": "$29",
+    "manufacture date": "18-May-2021",
+    "manufacture address": "Wipro,India",
+    "imageUrl": "https://media.croma.com/image/upload/v1605262828/Croma%20Assets/Small%20Appliances/Lighting%20Products/Images/9003325620254.png"
+  },
+  {
+    "id": 7,
+    "category": "light",
+    "name": "Sysca",
+    "model": "SMR",
+    "price": "$39",
+    "manufacture date": "12-Aug-2021",
+    "manufacture address": "Sysca,Japan",
+    "imageUrl": "https://d1tlw8zlp8jxtb.cloudfront.net/pub/media/catalog/product/cache/aa2388e3d25b2562a14846dd584364c8/b/0/b07mzzq7mr.main.jpg"
+  },
+  {
+    "id": 8,
+    "category": "light",
+    "name": "Tapo",
+    "model": "SH14",
+    "price": "$19",
+    "manufacture date": "21-May-2022",
+    "manufacture address": "Tapo,California",
+    "imageUrl": "https://media.croma.com/image/upload/v1605262828/Croma%20Assets/Small%20Appliances/Lighting%20Products/Images/9003325620254.png"
+  },
+  {
+    "id": 9,
+    "category": "tv",
+    "name": "Oneplus",
+    "model": "Y series",
+    "price": "$599",
+    "manufacture date": "12-Jan-2022",
+    "manufacture address": "One plus,China",
+    "imageUrl": "https://m.media-amazon.com/images/I/81iLglMLueL._SL1500_.jpg"
+  },
+  {
+    "id": 10,
+    "category": "tv",
+    "name": "Samsung",
+    "model": "SH22",
+    "price": "$799",
+    "manufacture date": "18-Feb-2021",
+    "manufacture address": "Samsung,China",
+    "imageUrl": "https://static.toiimg.com/thumb/resizemode-4,msid-73455566,imgsize-200,width-1200/73455566.jpg"
+  },
+  {
+    "id": 11,
+    "category": "tv",
+    "name": "LG",
+    "model": "43LM",
+    "price": "$499",
+    "manufacture date": "16-Aug-2022",
+    "manufacture address": "LG,California",
+    "imageUrl": "https://m.media-amazon.com/images/I/81iLglMLueL._SL1500_.jpg"
+  },
+  {
+    "id": 12,
+    "category": "speaker",
+    "name": "Bose",
+    "model": "Sound link",
+    "price": "$1299",
+    "manufacture date": "21-May-2022",
+    "manufacture address": "Bose,China",
+    "imageUrl": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1640932849/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/246312_anxc1f.png/mxw_640,f_auto"
+  }
+,
+  {
+    "id": 13,
+    "category": "speaker",
+    "name": "Sony",
+    "model": "SRS11",
+    "price": "$499",
+    "manufacture date": "21-Mar-2022",
+    "manufacture address": "Sony,India",
+    "imageUrl": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1624014836/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/235236_zpotkz.png/mxw_640,f_auto"
+  },
+  {
+    "id": 14,
+    "category": "speaker",
+    "name": "Zebronics",
+    "model": "Z123",
+    "price": "$299",
+    "manufacture date": "05-Jun-2022",
+    "manufacture address": "Zebronics,India",
+    "imageUrl": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1640932849/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/246312_anxc1f.png/mxw_640,f_auto"
+  }
+
+]
